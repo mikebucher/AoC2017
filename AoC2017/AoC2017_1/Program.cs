@@ -23,20 +23,23 @@ namespace AoC2017_1
 
             for (int i = 0; i < list.Length; i++)
             {
-                try
+                if(i+halfway >= list.Length)
+                {
+                    if (list[i].Equals(list[i - halfway]))
+                    {
+                        result += int.Parse(list[i].ToString());
+                    }
+
+                }
+                else
                 {
                     if (list[i].Equals(list[i + halfway]))
                     {
                         result += int.Parse(list[i].ToString());
                     }
+
                 }
-                catch
-                {
-                    if(list[i].Equals(list[i-halfway]))
-                    {
-                        result += int.Parse(list[i].ToString());
-                    }
-                }
+
             }
 
             Console.WriteLine("result: " + result);

@@ -1,0 +1,6 @@
+C:\Users\mikeb\source\repos\AoC2017\AoC2017\AoC2017_2\bin\Debug\AoC2017_2.exe.config
+C:\Users\mikeb\source\repos\AoC2017\AoC2017\AoC2017_2\bin\Debug\AoC2017_2.exe
+C:\Users\mikeb\source\repos\AoC2017\AoC2017\AoC2017_2\bin\Debug\AoC2017_2.pdb
+C:\Users\mikeb\source\repos\AoC2017\AoC2017\AoC2017_2\obj\Debug\AoC2017_2.csprojAssemblyReference.cache
+C:\Users\mikeb\source\repos\AoC2017\AoC2017\AoC2017_2\obj\Debug\AoC2017_2.exe
+C:\Users\mikeb\source\repos\AoC2017\AoC2017\AoC2017_2\obj\Debug\AoC2017_2.pdb

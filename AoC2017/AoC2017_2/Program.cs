@@ -48,7 +48,6 @@ namespace AoC2017_2
                     }
                 }
 
-                here:;
             }
 
             Console.WriteLine("result: " + result);

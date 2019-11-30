@@ -16,7 +16,6 @@ namespace AoC2017_1
             char[] list;
             int result = 0;
 
-
             list = input.ToCharArray();
 
             int halfway = list.Length / 2;
